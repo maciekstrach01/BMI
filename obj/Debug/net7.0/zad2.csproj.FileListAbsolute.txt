@@ -1,0 +1,45 @@
+C:\Users\Maciek\Desktop\zad2\bin\Debug\net7.0\zad2.exe
+C:\Users\Maciek\Desktop\zad2\bin\Debug\net7.0\zad2.deps.json
+C:\Users\Maciek\Desktop\zad2\bin\Debug\net7.0\zad2.runtimeconfig.json
+C:\Users\Maciek\Desktop\zad2\bin\Debug\net7.0\zad2.dll
+C:\Users\Maciek\Desktop\zad2\bin\Debug\net7.0\zad2.pdb
+C:\Users\Maciek\Desktop\zad2\obj\Debug\net7.0\zad2.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\zad2\obj\Debug\net7.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciek\Desktop\zad2\obj\Debug\net7.0\zad2.AssemblyInfoInputs.cache
+C:\Users\Maciek\Desktop\zad2\obj\Debug\net7.0\zad2.AssemblyInfo.cs
+C:\Users\Maciek\Desktop\zad2\obj\Debug\net7.0\zad2.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\zad2\obj\Debug\net7.0\zad2.dll
+C:\Users\Maciek\Desktop\zad2\obj\Debug\net7.0\refint\zad2.dll
+C:\Users\Maciek\Desktop\zad2\obj\Debug\net7.0\zad2.pdb
+C:\Users\Maciek\Desktop\zad2\obj\Debug\net7.0\zad2.genruntimeconfig.cache
+C:\Users\Maciek\Desktop\zad2\obj\Debug\net7.0\ref\zad2.dll
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\lab1c#\zad2\bin\Debug\net7.0\zad2.exe
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\lab1c#\zad2\bin\Debug\net7.0\zad2.deps.json
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\lab1c#\zad2\bin\Debug\net7.0\zad2.runtimeconfig.json
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\lab1c#\zad2\bin\Debug\net7.0\zad2.dll
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\lab1c#\zad2\bin\Debug\net7.0\zad2.pdb
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\lab1c#\zad2\obj\Debug\net7.0\zad2.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\lab1c#\zad2\obj\Debug\net7.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\lab1c#\zad2\obj\Debug\net7.0\zad2.AssemblyInfoInputs.cache
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\lab1c#\zad2\obj\Debug\net7.0\zad2.AssemblyInfo.cs
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\lab1c#\zad2\obj\Debug\net7.0\zad2.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\lab1c#\zad2\obj\Debug\net7.0\zad2.dll
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\lab1c#\zad2\obj\Debug\net7.0\refint\zad2.dll
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\lab1c#\zad2\obj\Debug\net7.0\zad2.pdb
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\lab1c#\zad2\obj\Debug\net7.0\zad2.genruntimeconfig.cache
+C:\Users\Maciek\Desktop\wsb 4 sem\c#\lab1c#\zad2\obj\Debug\net7.0\ref\zad2.dll
+C:\projects\C#\bmi cs\bin\Debug\net7.0\zad2.exe
+C:\projects\C#\bmi cs\bin\Debug\net7.0\zad2.deps.json
+C:\projects\C#\bmi cs\bin\Debug\net7.0\zad2.runtimeconfig.json
+C:\projects\C#\bmi cs\bin\Debug\net7.0\zad2.dll
+C:\projects\C#\bmi cs\bin\Debug\net7.0\zad2.pdb
+C:\projects\C#\bmi cs\obj\Debug\net7.0\zad2.csproj.AssemblyReference.cache
+C:\projects\C#\bmi cs\obj\Debug\net7.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\C#\bmi cs\obj\Debug\net7.0\zad2.AssemblyInfoInputs.cache
+C:\projects\C#\bmi cs\obj\Debug\net7.0\zad2.AssemblyInfo.cs
+C:\projects\C#\bmi cs\obj\Debug\net7.0\zad2.csproj.CoreCompileInputs.cache
+C:\projects\C#\bmi cs\obj\Debug\net7.0\zad2.dll
+C:\projects\C#\bmi cs\obj\Debug\net7.0\refint\zad2.dll
+C:\projects\C#\bmi cs\obj\Debug\net7.0\zad2.pdb
+C:\projects\C#\bmi cs\obj\Debug\net7.0\zad2.genruntimeconfig.cache
+C:\projects\C#\bmi cs\obj\Debug\net7.0\ref\zad2.dll
